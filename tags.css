@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+
+li {
+    list-style-type: square;
+    margin: 10px;
+}
+
+a {
+    font-weight: bold;
+}
